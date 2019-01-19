@@ -1,0 +1,23 @@
+{
+  "name": "npc_reptille",
+  "version": "0.1.0",
+  "description": "reptille image with nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HC1988/npc_reptille.git"
+  },
+  "keywords": [
+    "reptille",
+    "cheerio"
+  ],
+  "author": "lwang1222@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HC1988/npc_reptille/issues"
+  },
+  "homepage": "https://github.com/HC1988/npc_reptille#readme"
+}
